@@ -12,7 +12,7 @@
   
 </br>
 
-I'm a data scientist who is passionate about learning and teaching others. Much of the work you'll see in my repositories is for helping my students on their journey towards beginning a data science career or simply my personal quest for knowledge. When I'm not coding you can find me at the park with my dog Apollo, gaming with friends (currently playing Overwatch and Among Us) or out on a bike ride.
+I'm a data scientist who is passionate about learning and teaching others. The repositories you'll see here are mostly for helping my students on their journey towards a new career in data science or simply fulfilling my personal quest for knowledge. When I'm not coding you can find me at the park with my dog Apollo, gaming with friends (currently playing Overwatch and Among Us) or out on a bike ride.
 
 ### 💼 Where I Currently Work 💼
 
