@@ -12,32 +12,47 @@
   
 </br>
 <p>
-I'm a data scientist who is passionate about learning and teaching others. The repositories you'll see here are mostly for helping my students on their journey towards a new career in data science or simply fulfilling my personal quest for knowledge. When I'm not coding you can find me at the park with my dog Apollo, gaming with friends (currently playing Overwatch and Among Us) or out on a bike ride.</p>
+ 
+I'm a data scientist who is passionate about learning and teaching others. When I'm not coding you can find me at the park with my dog Apollo, gaming with friends, or out on a bike ride.</p>
 
-### 💼 Where I Currently Work 💼
+### 💼 Where I Work
 
-[Galvanize Data Science Bootcamp](https://www.galvanize.com/data-science-bootcamp): Data Science Instructor
+[Galvanize Data Science Bootcamp](https://www.galvanize.com/data-science-bootcamp): Data Science Instructor, Data Scientist
 
-### 💻 Currently Working On:
+### ✏️ In School For
 
-* A machine learning model to predict the return on investment of crowd-funded loans. I'd like to host this model online and combine it with an AWS Lambda job to perform automated investing with my own money. 
+MS in Computer Science with a specialization in machine learning. I'm enrolled through Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) and begin classes in the fall of 2021.
 
-* Acquiring an AWS Certified Solutions Architect Associate certification. I love the power and flexibilty of AWS and can't wait to become an expert. I'm happy to promote [this excellent course](https://learn.cantrill.io/) created by [Adrian Cantrill](https://www.linkedin.com/in/adriancantrill/). 
+### 💻 Currently Working On
+
+* [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science), learning how to combine my machine learning knowledge with AWS. 
+
+* [Supply chain optimization](https://smile.amazon.com/gp/product/3110673916/) through simulation. I don't work in supply chain but enjoy solving "real world" problems with simulations. 
 
 * Solving math, probability, and logic puzzles. Every Friday I check out the latest challenges posted by the [538 Riddler](https://fivethirtyeight.com/tag/the-riddler/) and store my solutions [here](https://github.com/Booleans/riddler-538). 
 
-* A repo containing 200+ real data science interview questions with solutions to help my students get their dream jobs.
-
-* Kaggle's [Airline Price Optimization Micro-Challenge](https://www.kaggle.com/dansbecker/exercise-airline-price-optimization-microchalleng). I enjoy optimization problems and am using this as an exercise to learn more about Python's optimization libraries and reinforcement learning.
-
 ### 📚 Currently Learning More About:
 
-* Optimization algorithms. I purchased the book [Algorithms for Optimization](https://www.amazon.com/gp/product/0262039427/) and have been enjoying being exposed to the Julia programming language. 
+* Bayesian statistics with Python, with the second edition of the book [Think Bayes](https://smile.amazon.com/gp/product/149208946X/).
 
-* Pytorch, with the help of the book/class [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
+### 💡 Future Learning Plans:
 
-* Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919).
+Since there are too many things to learn at once...
+
+* [Machine Learning Engineering for Production MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops).
+
+* Julia language with an [MIT course](https://computationalthinking.mit.edu/Spring21/). 
+
+* [Discrete Optimization Algorithms](https://www.coursera.org/learn/discrete-optimization).
+
+* Even more optimization algorithms. I purchased the book [Algorithms for Optimization](https://www.amazon.com/gp/product/0262039427/) but want to learn Julia before digesting the code.
+
+* [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
+
+* More Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919). I have [a repo](https://github.com/Booleans/statistical-rethinking) where I was translating the book's R code to Python but it's on the backburner while I prioritize other learning.
 
 ### 💬 Ask Me About:
 
 * Writing simulations to solve probability and statistics problems.
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
