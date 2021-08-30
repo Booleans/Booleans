@@ -17,17 +17,14 @@ I'm a data scientist who is passionate about learning and teaching others. When 
 
 ### 💼 Where I Work
 
-[Galvanize Data Science Bootcamp](https://www.galvanize.com/data-science-bootcamp): Data Science Instructor, Data Scientist
-
+[DataRobot](https://www.datarobot.com/): Data Science Trainer
 ### ✏️ In School For
 
 MS in Computer Science with a specialization in machine learning. I'm enrolled through Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) and begin classes in the fall of 2021.
 
 ### 💻 Currently Working On
 
-* [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science), learning how to combine my machine learning knowledge with AWS. 
-
-* [Supply chain optimization](https://smile.amazon.com/gp/product/3110673916/) through simulation. I don't work in supply chain but enjoy solving "real world" problems with simulations. 
+* [Applied Cryptography](https://omscs.gatech.edu/cs-6260-applied-cryptography) as my first course in grad school. 
 
 * Solving math, probability, and logic puzzles. Every Friday I check out the latest challenges posted by the [538 Riddler](https://fivethirtyeight.com/tag/the-riddler/) and store my solutions [here](https://github.com/Booleans/riddler-538). 
 
@@ -38,6 +35,10 @@ MS in Computer Science with a specialization in machine learning. I'm enrolled t
 ### 💡 Future Learning Plans:
 
 Since there are too many things to learn at once...
+
+* [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science), learning how to combine my machine learning knowledge with AWS. 
+
+* [Supply chain optimization](https://smile.amazon.com/gp/product/3110673916/) through simulation. I don't work in supply chain but enjoy solving "real world" problems with simulations. 
 
 * [Machine Learning Engineering for Production MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops).
 
