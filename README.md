@@ -20,37 +20,17 @@ I'm a data scientist who is passionate about learning and teaching others. When 
 [DataRobot](https://www.datarobot.com/): Data Science Trainer
 ### ✏️ In School For
 
-MS in Computer Science with a specialization in machine learning. I'm enrolled through Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) and begin classes in the fall of 2021.
+MS in Computer Science with a specialization in machine learning. I'm enrolled through Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) and started classes in the fall of 2021.
 
 ### 💻 Currently Working On
 
-* [Applied Cryptography](https://omscs.gatech.edu/cs-6260-applied-cryptography) as my first course in grad school. 
+* [Simulation and Modeling for Engineering and Science](https://omscs.gatech.edu/isye-6644-simulation-and-modeling-engineering-and-science) as my second course in grad school. 
 
 * Solving math, probability, and logic puzzles. Every Friday I check out the latest challenges posted by the [538 Riddler](https://fivethirtyeight.com/tag/the-riddler/) and store my solutions [here](https://github.com/Booleans/riddler-538). 
 
 ### 📚 Currently Learning More About:
 
-* Bayesian statistics with Python, with the second edition of the book [Think Bayes](https://smile.amazon.com/gp/product/149208946X/).
-
-### 💡 Future Learning Plans:
-
-Since there are too many things to learn at once...
-
-* [Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science), learning how to combine my machine learning knowledge with AWS. 
-
-* [Supply chain optimization](https://smile.amazon.com/gp/product/3110673916/) through simulation. I don't work in supply chain but enjoy solving "real world" problems with simulations. 
-
-* [Machine Learning Engineering for Production MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops).
-
-* Julia language with an [MIT course](https://computationalthinking.mit.edu/Spring21/). 
-
-* [Discrete Optimization Algorithms](https://www.coursera.org/learn/discrete-optimization).
-
-* Even more optimization algorithms. I purchased the book [Algorithms for Optimization](https://www.amazon.com/gp/product/0262039427/) but want to learn Julia before digesting the code.
-
-* [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/).
-
-* More Bayesian Statistics, primarily through the book [Statistical Rethinking](https://www.routledge.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919). I have [a repo](https://github.com/Booleans/statistical-rethinking) where I was translating the book's R code to Python but it's on the backburner while I prioritize other learning.
+* [Bayesian Modeling and Computation in Python](https://www.routledge.com/Bayesian-Modeling-and-Computation-in-Python/Martin-Kumar-Lao/p/book/9780367894368)
 
 ### 💬 Ask Me About:
 
