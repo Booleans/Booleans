@@ -17,14 +17,14 @@ I'm a data scientist who is passionate about learning and teaching others. When 
 
 ### 💼 Where I Work
 
-[DataRobot](https://www.datarobot.com/): Data Science Trainer
+[DataRobot:](https://www.datarobot.com/) Senior Customer Data Scientist
 ### ✏️ In School For
 
 MS in Computer Science with a specialization in machine learning. I'm enrolled through Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) and started classes in the fall of 2021.
 
 ### 💻 Currently Working On
 
-* [Simulation and Modeling for Engineering and Science](https://omscs.gatech.edu/isye-6644-simulation-and-modeling-engineering-and-science) as my second course in grad school. 
+* [CS 6601: Artificial Intelligence](https://omscs.gatech.edu/cs-6601-artificial-intelligence) as my third course in grad school. 
 
 * Solving math, probability, and logic puzzles. Every Friday I check out the latest challenges posted by the [538 Riddler](https://fivethirtyeight.com/tag/the-riddler/) and store my solutions [here](https://github.com/Booleans/riddler-538). 
 
