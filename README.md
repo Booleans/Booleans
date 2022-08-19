@@ -32,13 +32,15 @@ MS in Computer Science with a specialization in machine learning. I'm enrolled t
 
 * [Bayesian Modeling and Computation in Python](https://www.routledge.com/Bayesian-Modeling-and-Computation-in-Python/Martin-Kumar-Lao/p/book/9780367894368)
 
+* [Robust Python](https://learning.oreilly.com/library/view/robust-python/9781098100650/)
+
 ### 💡 Future Learning Plans:
 
 Since there are too many things to learn at once...
 
-* [Programming Rust: Fast, Safe Systems Development](https://smile.amazon.com/gp/product/1492052590/)
+* [Machine Learning for High Risk Applications](https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/)
 
-* [Learning Test-Driven Development: A Polyglot Guide to Writing Uncluttered Code](https://smile.amazon.com/gp/product/1098106474/)
+* [Command Line Rust](https://learning.oreilly.com/library/view/command-line-rust/9781098109424/)
 
 
 
