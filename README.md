@@ -17,7 +17,7 @@ I'm a data scientist who is passionate about learning and teaching others. When 
 
 ### 💼 Where I Work
 
-[DataRobot:](https://www.datarobot.com/) Senior Customer Data Scientist
+[Databricks:](https://www.databricks.com/) Customer Success Engineer
 ### ✏️ In School For
 
 MS in Computer Science with a specialization in machine learning. I'm enrolled through Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) and started classes in the fall of 2021.
