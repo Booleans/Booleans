@@ -26,7 +26,7 @@ MS in Computer Science with a specialization in machine learning. I'm enrolled t
 
 * [IYSE 6420: Bayesian Statistics](https://omscs.gatech.edu/isye-6420-bayesian-statistics) as my third course in grad school. 
 
-* Solving math, probability, and logic puzzles. Every Friday I check out the latest challenges posted by the [538 Riddler](https://fivethirtyeight.com/tag/the-riddler/) and store my solutions [here](https://github.com/Booleans/riddler-538). 
+* AWS Solutions Architect (SAA-C03) certification.
 
 ### 📚 Currently Learning More About:
 
