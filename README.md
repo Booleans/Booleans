@@ -12,19 +12,18 @@
   
 </br>
 <p>
- 
-I'm a data scientist who is passionate about learning and teaching others. When I'm not coding you can find me at the park with my dog Apollo, gaming with friends, or out on a bike ride.</p>
 
 ### 💼 Where I Work
 
-[Databricks:](https://www.databricks.com/) Delivery Solutions Architect
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+
 ### ✏️ In School For
 
-MS in Computer Science with a specialization in machine learning. I'm enrolled through Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) and started classes in the fall of 2021.
+MS in Computer Science with a specialization in machine learning. I'm enrolled through Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) and am currently on my 3rd class.
 
 ### 💻 Currently Working On
 
-* [IYSE 6420: Bayesian Statistics](https://omscs.gatech.edu/isye-6420-bayesian-statistics) as my third course in grad school. 
+* [IYSE 6420: Bayesian Statistics](https://omscs.gatech.edu/isye-6420-bayesian-statistics) for grad school.
 
 * AWS Solutions Architect (SAA-C03) certification.
 
@@ -47,4 +46,6 @@ Since there are too many things to learn at once...
 
 * Writing simulations to solve probability and statistics problems.
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 	![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=crimson)
+
+
