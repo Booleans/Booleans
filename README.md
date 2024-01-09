@@ -23,9 +23,11 @@ MS in Computer Science with a specialization in machine learning. I'm enrolled t
 
 ### 💻 Currently Working On
 
-* [IYSE 6420: Bayesian Statistics](https://omscs.gatech.edu/isye-6420-bayesian-statistics) for grad school.
+* [IYSE 6420: Bayesian Statistics](https://omscs.gatech.edu/isye-6420-bayesian-statistics) for grad school
 
-* AWS Solutions Architect (SAA-C03) certification.
+* [Databricks Data Engineering Professional Certification](https://www.databricks.com/learn/certification/data-engineer-professional)
+
+* [Databricks Machine Learning Professional Certification](https://www.databricks.com/learn/certification/machine-learning-professional)
 
 ### 📚 Currently Learning More About:
 
@@ -39,6 +41,8 @@ Since there are too many things to learn at once...
 
 * [Effective XGBoost](https://store.metasnake.com/xgboost)
 
+* AWS Solutions Architect Associate SAA-C03 Certification
+
 
 
 
@@ -46,6 +50,5 @@ Since there are too many things to learn at once...
 
 * Writing simulations to solve probability and statistics problems.
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 	![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=crimson)
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
