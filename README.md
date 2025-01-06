@@ -23,15 +23,12 @@ MS in Computer Science with a specialization in machine learning. I'm enrolled t
 
 ### 💻 Currently Working On
 
-* [IYSE 6420: Bayesian Statistics](https://omscs.gatech.edu/isye-6420-bayesian-statistics) for grad school
+* [CS 7638: Robotics: AI Techniques](https://omscs.gatech.edu/cs-7638-robotics-ai-techniques) for grad school
 
-* [Databricks Data Engineering Professional Certification](https://www.databricks.com/learn/certification/data-engineer-professional)
+* Learning Rust with [Rustlings](https://github.com/rust-lang/rustlings) and [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 
-* [Databricks Machine Learning Professional Certification](https://www.databricks.com/learn/certification/machine-learning-professional)
+* AWS Solutions Architect Associate SAA-C03 Certification
 
-### 📚 Currently Learning More About:
-
-* [Simplifying Data Engineering and Analytics with Delta](https://www.packtpub.com/product/simplifying-data-engineering-and-analytics-with-delta/9781801814867)
 
 ### 💡 Future Learning Plans:
 
@@ -39,16 +36,14 @@ Since there are too many things to learn at once...
 
 * [Interpreting Machine Learning Models With SHAP](https://leanpub.com/shap)
 
-* [Effective XGBoost](https://store.metasnake.com/xgboost)
-
-* AWS Solutions Architect Associate SAA-C03 Certification
-
-
+* [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
 
 ### 💬 Ask Me About:
 
-* Writing simulations to solve probability and statistics problems.
+* Using Databricks for data engineering and machine learning.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=crimson)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
